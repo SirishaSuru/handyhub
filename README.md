@@ -9,3 +9,9 @@ interactions. It is built using Flask for the backend due to its lightweight, fl
 seamless integration with machine learning libraries to enhance recommendation accuracy. Key 
 features include secure customer authentication, a rating system with dynamic updates based on 
 user feedback, and personalized recommendations that improve over time. 
+![image](https://github.com/user-attachments/assets/fe7a20af-73e3-41ee-9629-301179e0a8fd)
+
+
+
+
+
